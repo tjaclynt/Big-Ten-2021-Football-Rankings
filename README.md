@@ -1,5 +1,5 @@
 # Big-Ten-2021-Football-Rankings
-This program automatically collects stats from players in each Big Ten football team from the following sites:
+This program automatically collects stats from players in each Big Ten football team from the following sites where {team} is replaced with the name of team (ex. maryland):
   1. https://www.sports-reference.com/cfb/schools/{team}/2021.html
   2. https://www.sports-reference.com/cfb/schools/{team}/2021-roster.html
   
