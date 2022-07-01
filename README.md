@@ -1,7 +1,9 @@
 # Big-Ten-2021-Football-Rankings
 This program automatically collects stats from players in each Big Ten football team from the following sites:
-  https://www.sports-reference.com/cfb/schools/{team}/2021.html --> stats are collected here
-  https://www.sports-reference.com/cfb/schools/{team}/2021-roster.html --> player's position is obtained here
+  1. https://www.sports-reference.com/cfb/schools/{team}/2021.html
+  2. https://www.sports-reference.com/cfb/schools/{team}/2021-roster.html
+  
+  The first website contains each team's stats and the second contains each player's position.
   
 Upon collecting each team's table of statistics based on the given categories: Passing, Rushing & Receiving, Defense & Fumbles, and Scoring,
 it then simultaneously obtains the player's position using the second website to add the player's position and school of attendance to the
